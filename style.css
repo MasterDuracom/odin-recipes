@@ -1,13 +1,15 @@
-p {
+.p {
     text-align:center;
     color:black;
     font:22;
 }
 
-
-
-
-
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 
 
