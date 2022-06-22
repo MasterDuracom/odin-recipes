@@ -26,3 +26,31 @@
             height: auto;
             color: red;
 }
+
+.item-description {
+    float: auto;
+    width: auto;
+    height: auto;
+    color: red;
+}
+
+.recipe-steps-soup {
+    float: auto;
+    width: auto;
+    height: auto;
+    color: purple;
+}
+
+.recipe-steps-chicken {
+    float: auto;
+    width: auto;
+    height: auto;
+    color: blue;
+}
+
+.recipe-steps-beef {
+    float: auto;
+    width: auto;
+    height: auto;
+    color: red;
+}
